@@ -30,7 +30,7 @@ const CardStarship = ({ name, uid }) => {
                         className="btn btn-outline-warning btn-sm"
                         onClick={handleFavorite}
                     >
-                        <i className="bi bi-heart-fill"></i>
+                        <i className="fas fa-heart"></i>
                     </button>
                 </div>
             </div>
